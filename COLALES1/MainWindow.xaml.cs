@@ -23,6 +23,7 @@ namespace COLALES1
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine();
         }
     }
 }
